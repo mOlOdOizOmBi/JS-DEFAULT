@@ -10,7 +10,7 @@
   "scripts": {
      "start": "echo",
     "lint": "eslint index.js",
-    "deploy": "echo",
+    "deploy": "echo Current branch: $TRAVIS_BRANCH",
     "build": "echo",
     "test": "echo "
   },
